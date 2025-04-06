@@ -4,10 +4,10 @@
 </h1>
 
 <div id="badges" align="center">
-  <a href="https://t.me/mustafainsabr" target="_blank" style="text-decoration: none">
+  <a href="https://t.me/mustafaonsabr" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="your-linkedin-URL" target="_blank" style="text-decoration: none">
+  <a href="https://www.linkedin.com/in/mustafa-todziev/" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://wa.me/79680603084" target="_blank" style="text-decoration: none">
@@ -25,7 +25,7 @@ I am a **Frontend Developer** <img src="https://media.giphy.com/media/WUlplcMpOC
 - :telescope: I specialize in **React**, **JavaScript**, and modern frontend tools like **Webpack** and **Sass**.
 - :seedling: Exploring **Technical Content Writing** and sharing my knowledge through articles.
 - :zap: In my free time, I solve coding challenges on **Codewars** and read tech articles to stay updated.
-- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/MustafaInSabr-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mustafainsabr)
+- :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/MustafaOnSabr-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mustafaonsabr)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
