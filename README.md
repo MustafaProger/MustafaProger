@@ -54,9 +54,9 @@ I am a **Frontend Developer** <img src="https://media.giphy.com/media/WUlplcMpOC
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
----
+<!-----
 
-<!--### :fire: My Stats :
+### :fire: My Stats :
 
 <div align="center">
 
