@@ -34,6 +34,7 @@ I am a **Frontend Developer** <img src="https://media.giphy.com/media/WUlplcMpOC
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -52,15 +53,14 @@ I am a **Frontend Developer** <img src="https://media.giphy.com/media/WUlplcMpOC
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-<!--![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) -->
 
 ---
 
-### :fire: My Stats :
+<!--### :fire: My Stats :
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mustafaproger&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats) 
 &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaproger&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
-</div>
+</div> -->
