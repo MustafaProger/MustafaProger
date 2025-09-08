@@ -74,4 +74,23 @@
 Там я делюсь:  
 - 🛠️ тем, чему научился на практике  
 - 🚀 разбором своих проектов и кода  
-- 📚 полезными заметками о фронтенде и инструментах  
+- 📚 полезными заметками о фронтенде и инструментах
+
+---
+
+### 📊 GitHub Статистика
+
+<div align="center">
+
+<!-- ВЕРХНЯЯ БОЛЬШАЯ КАРТОЧКА -->
+<img src="https://raw.githubusercontent.com/MustafaProger/MustafaProger/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+
+<!-- СРЕДНИЙ РЯД: ЯЗЫКИ ПО РЕПО + ЯЗЫКИ ПО КОММИТАМ -->
+<img src="https://raw.githubusercontent.com/MustafaProger/MustafaProger/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+<img src="https://raw.githubusercontent.com/MustafaProger/MustafaProger/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+
+<!-- НИЖНИЙ РЯД: ОБЩИЕ СТАТЫ + АКТИВНОСТЬ ПО ЧАСАМ -->
+<img src="https://raw.githubusercontent.com/MustafaProger/MustafaProger/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+<img src="https://raw.githubusercontent.com/MustafaProger/MustafaProger/main/profile-summary-card-output/tokyonight/4-productive-time.svg" />
+
+</div>
