@@ -5,7 +5,7 @@ on:
     - cron: "0 0 * * *"   # обновление раз в сутки
   workflow_dispatch:       # возможность запускать руками
   push:
-    branches: ["main"]     # поменяй на master, если у тебя master
+    branches: ["master"]     # поменяй на master, если у тебя master
 
 jobs:
   build:
