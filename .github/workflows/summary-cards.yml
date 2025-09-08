@@ -17,5 +17,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: MustafaProger          # ← твой ник
-          BRANCH: main                     # ← замени на master, если нужно
+          BRANCH: master                     # ← замени на master, если нужно
           THEME: tokyonight                # тёмная тема (можно dracula/monokai/github_dark/gruvbox)
